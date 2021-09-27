@@ -1,0 +1,16 @@
+#memo_table, #memo_table td, #memo_table th {
+    border-collapse: collapse;
+    border:1px solid #333;
+}
+
+#memo_table {
+    width: 100%;
+}
+
+.float-right {
+    float: right;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
